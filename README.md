@@ -1,3 +1,4 @@
 # Announcements
-Testing123
+news
+
 -------------
